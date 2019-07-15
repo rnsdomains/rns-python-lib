@@ -77,7 +77,7 @@ from rns_sdk.resolver_contract import ResolverContract
 
 resolver = ResolverContract()
 
-resolver.addr("foo.rsk.co")
+resolver.addr("foo.rsk")
 
 ```
 
